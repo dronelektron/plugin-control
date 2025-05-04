@@ -1,6 +1,8 @@
 # Plugin control
 
-Allows you to control the behavior of plugins
+Allows you to control the behavior of plugins:
+
+* [ping-checker](https://github.com/dronelektron/ping-checker)
 
 ### Supported Games
 
@@ -9,6 +11,8 @@ Allows you to control the behavior of plugins
 ### Requirements
 
 * [SourceMod](https://www.sourcemod.net) 1.11 or later
+* [tag-manager](https://github.com/dronelektron/tag-manager)
+* [ping-checker](https://github.com/dronelektron/ping-checker)
 
 ### Installation
 
