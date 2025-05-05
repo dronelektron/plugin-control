@@ -12,7 +12,7 @@ public Plugin myinfo = {
 };
 
 public Action PingChecker_OnClient(int client) {
-    bool ignore = TagManager_IsClientHasTag(client, "no-ping-check");
+    bool ignore = TagManager_Check(client, "no-ping-check");
 
     return ignore ? Plugin_Stop : Plugin_Continue;
 }
