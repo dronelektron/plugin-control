@@ -1,6 +1,6 @@
 # Plugin control
 
-Allows you to control the behavior of plugins
+Allows you to control the behavior of plugins using player tags
 
 ### Supported Games
 
