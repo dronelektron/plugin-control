@@ -3,11 +3,14 @@
 
 #include "tag-manager/api"
 #include "ping-checker/api"
+#include "dod-hooks/api"
 
+#include "plugin-control/dod-hooks"
 #include "plugin-control/gag"
 #include "plugin-control/mute"
 #include "plugin-control/ping-checker"
 
+#include "modules/dod-hooks.sp"
 #include "modules/gag.sp"
 #include "modules/mute.sp"
 #include "modules/ping-checker.sp"
